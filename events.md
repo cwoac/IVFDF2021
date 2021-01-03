@@ -5,8 +5,6 @@ permalink: /events/
 ---
 # Events
 
-* List of all events, workshops, sessions. *
-
 ## Where are the events?
 Most of the events will be held in [Zoom](community.md).
 You will need to sign up for a [ticket](tickets.md) to be able to get into the events.
