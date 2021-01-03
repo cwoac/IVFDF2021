@@ -1,0 +1,12 @@
+.hw_required {
+    color: blue;
+}
+
+.hw_supported {
+    color: green;
+}
+
+.hw_unsupported {
+    color: lightgrey;
+}
+
