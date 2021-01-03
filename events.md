@@ -3,8 +3,6 @@ layout: event_page
 title: Events
 permalink: /events/
 ---
-# Events
-
 ## Where are the events?
 Most of the events will be held in [Zoom](community.md).
 You will need to sign up for a [ticket](tickets.md) to be able to get into the events.
