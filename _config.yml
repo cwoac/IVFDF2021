@@ -32,7 +32,10 @@ header_pages:
  - community.md
  - tickets.md
  - contact.md
-
+collections:
+ events:
+   output: true
+   permalink: '/events/:path/'
 # Build settings
 markdown: kramdown
 theme: minima
