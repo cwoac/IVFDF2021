@@ -43,7 +43,21 @@ layout: default
         {%- else -%}
         {%- assign microphone_class = "hw_unsupported" -%}
         {%- endif -%}
-        <h3><span class="{{ mobile_class }}">&#128241;&#xfe0e;</span><span class="{{ computer_class }}">&#128187;&#xfe0e;</span><span class="{{ microphone_class }}">&#127908;&#xfe0e;</span></h3>
+        {%- if event.group -%}
+        {%- assign group_mode = "&#128101;" -%}
+        {%- else -%} 
+        {%- assign group_mode = "&#128100;" -%} 
+        {%- endif -%}
+        <h3><span class="{{ mobile_class }}">&#128241;&#xfe0e;</span>
+        <span class="{{ computer_class }}">&#128187;&#xfe0e;</span><span class="{{ microphone_class }}">&#127908;&#xfe0e;</span>
+        {%- if event.special_requirements -%}<span>&#129412;</span>{%- endif -%}
+        </h3>
+        <td><h3>
+        <span>{{ group_mode }}</span>
+        <td><h3>
+        <span>{%- if event.presentation -%}&#128200;{%- endif -%}{%- if event.music -%}&#9835;{%- endif -%}{%- if event.dancing -%}&#128131;{%- endif -%} </span>
+        
+        </h3>
       </tr>
       {%- endfor -%}
     </table>
@@ -51,18 +65,32 @@ layout: default
     <table>
     <tr>
     <td>
+    Hardware types:
+    <ul>
+        <li>&#128241; - Mobile phone/tablet
+        <li>&#128187; - Computer
+        <li>&#127908; - Microphone
+        <li>&#129412; - Special requirements - see event details!
+    </ul>
+    <td>
     <ul>
         <li class="hw_required">Hardware is required</li>
         <li class="hw_supported">Hardware is supported</li>
         <li class="hw_unsupported">Hardware is unsupported / not needed for this.</li>
     </ul>
+    </tr>
+    <tr>
+    <td>
+    How many people per connection?
+    <ul>
+    <li>&#128100; - One person
+    <li>&#128101; - Multiple people
+    </ul>
     <td>
     <ul>
-        <li>&#128241; - Mobile phone/tablet
-        <li>&#128187; - Computer
-        <li>&#127908; - Microphone
-    </ul>
-    </tr>
+    <li>&#128200; - This is a presentation event
+    <li>&#9835; - This is a music event
+    <li>&#128131; - This is a dancing event
     </table>
   {%- endif -%}
   

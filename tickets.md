@@ -6,7 +6,7 @@ permalink: /tickets/
 
 # Tickets 
 
-*Buy your ticket link*
+<h1><a href="https://www.paypal.com/donate?hosted_button_id=JP5YGAQQZN9CW">Buy your tickets here!</a></h1>
 
 ## What does a ticket get you?
 
@@ -20,7 +20,13 @@ All the things! Well, all the things that we’re offering which includes live m
 
 ## What happens if I’d like to give a different amount?
 
-Thank you! There is a donation button <link> available now and throughout the weekend. We will happily accept additional amounts through there.
+Thank you! You can donate through this link:
+
+<h1><a href="https://www.paypal.com/donate?hosted_button_id=JP5YGAQQZN9CW">Donate!</a></h1>
+
+The link is available now and throughout the weekend. We will happily accept additional amounts through there. 
+
+*Important*: You still need to buy a ticket from the link above, so if (for instance) you wanted to give us £15 total, please buy a £10 ticket and donate £5.
 
 ## Where exactly is the money going?
 
