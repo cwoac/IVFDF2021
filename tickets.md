@@ -3,9 +3,6 @@ layout: page
 title: Tickets
 permalink: /tickets/
 ---
-
-# Tickets 
-
 <h1><a href="https://www.bristolsu.org.uk/groups/bristol-university-folk-society/events/ivfdf-online">Buy your tickets here!</a></h1>
 
 ## What does a ticket get you?
