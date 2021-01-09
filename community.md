@@ -4,7 +4,13 @@ title: Community
 permalink: /community/
 ---
 <span style="float:left">![Unicorn Mascot]({{site.baseurl}}/assets/mascot_unicorn.png)</span>
-Unsurprisingly, we are going to be a lot more reliant on technology than previous years of IVFDF. Here's a rundown on what we are going to be using.
+The IVFDF community is a big part of what makes the festival so special.
+We know that this year the usual spaces that would exist are not an option and that we are going to be a lot more reliant on technology than usual.
+We hope you’ll take part in the community spaces we have set up for you.
+Alongside all our events we’ll have a dedicated Discord server and Minecraft world available throughout the weekend for ticket holders to socialise in.
+
+
+Here is a summary of the platforms we are using to host IVFDF, along with help for those who are unfamiliar with them.
 
 # Zoom 
 <span style="float:right">![Pig Mascot]({{site.baseurl}}/assets/mascot_pig.png)</span>

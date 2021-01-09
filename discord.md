@@ -4,7 +4,7 @@ title: Discord
 permalink: /community/discord/
 ---
 ## What is Discord?
-Discord is an application/website which allows users to create their own space, or “Server”, to share information and communication in real time. It’s an online chat room specially built for IVFDF. It has options to write, talk over voice, screen share all in individual areas, or “channels”, for specific topics.
+[Discord](https://discord.com) is an application/website which allows users to create their own space, or “Server”, to share information and communication in real time. It’s an online chat room specially built for IVFDF. It has options to write, talk over voice, screen share all in individual areas, or “channels”, for specific topics. For those who are familiar with such things, it's basically a fancy IRC server
 
 ## Why should I join?
 Folk festivals are heavily based on the community aspect. The Discord allows some parts of this to take place in a digital way as we can’t be together in person this year. 
