@@ -12,7 +12,7 @@ This might be helping us supervise a zoom room, be a moderator on the Discord or
 If you can help us by being a steward please email us at <a href="mailto:enquiries@ivfdf2021.org.uk">enquiries@ivfdf2021.org.uk</a>.
 
 # Workshop leaders
-We're looking for people to lead workshops. This year with no limits on physical space we can fit in as many as we can timetable! If you have an idea for a workshop that you would like to lead please fill in this proposal form and Jack our workshop coordinator will get in touch with you.
+We're looking for people to lead workshops. This year with no limits on physical space we can fit in as many as we can timetable! If you have an idea for a workshop that you would like to lead please fill in <a href="https://forms.gle/jwBy72BmWwdwUpyz6">this proposal form</a> and Jack our workshop coordinator will get in touch with you.
 
 # Session leader
 If you'd like to lead a session, perhaps on a particular theme... ballads? Skandi? Whatever you like! Then drop us a messsage at <a href="mailto:enquiries@ivfdf2021.org.uk">enquiries@ivfdf2021.org.uk</a>.
