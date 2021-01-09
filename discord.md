@@ -43,6 +43,4 @@ You will need to create an account to use the server along with verifying your e
 * Channel - A section of the main chatroom about one event or topic.
 * Ping - A form of notifying multiple people at one time.
 * DM - Direct Message. A message sent to one individual on the server. You can have a private conversation with one other person.
-* Moderator - 
-* Verification - 
-* Hashtag - 
+* Moderator - An online steward who looks after channels.

@@ -25,6 +25,13 @@ The link is available now and throughout the weekend. We will happily accept add
 
 *Important*: You still need to buy a ticket from the link above, so if (for instance) you wanted to give us £15 total, please buy a £10 ticket and donate £5.
 
+## I only want to come to one event, is there a day ticket or something?
+
+No, but what you can do is buy a £1 ticket and add a donation to make it up to something appropriate, say £4 for a total of £5. 
+
+## Is there any other way to get a ticket?
+Even an online IVFDF needs stewards and other volunteers, and as usual we will be offering free tickets to those who help out. See the [getting involved]({{site.baseurl}}/get_involved/) for how you can help out.
+
 ## Where exactly is the money going?
 
 There is a small amount of core expenditure for us with Zoom, Website hosting, Paypal fees. All other profits will be given to the artists. Some artists have generously volunteered their time for which we are very grateful.

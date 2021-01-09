@@ -21,7 +21,7 @@ All our profits will be split between our performers.
 We’re hoping to provide some much needed income in this difficult time for the folk music world. 
 
 
-Buy your £10 weekend ticket **[now]({{site.baseurl}}/tickets/)** or donate a little extra if you can offer some extra support. 
+Buy your weekend ticket **[now]({{site.baseurl}}/tickets/)** or donate a little extra if you can offer some extra support. 
 
 <span style="float:left">![Highland Coo Mascot]({{site.baseurl}}/assets/mascot_highland_coo.png)</span>
 The IVFDF community is a big part of what makes the festival so special. 
