@@ -18,4 +18,4 @@ This keeps background noise down for other users and helps keep the audio qualit
 ## Pinning a screen
 
 You can choose one screen to be largest on your screen. This is useful for seeing the performers screen or dancing with someone else. This is how you do it: <a href="https://support.zoom.us/hc/en-us/articles/201362743">https://support.zoom.us/hc/en-us/articles/201362743</a>
-Even better - go to Sally’s Workshop! <link to ‘Pin to Win’ Workshop>
+Even better - go to Sally’s "Pin to Win" Workshop!
