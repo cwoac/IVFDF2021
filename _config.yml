@@ -32,6 +32,7 @@ header_pages:
  - community.md
  - tickets.md
  - contact.md
+ - get_involved.md
 collections:
  events:
    output: true
