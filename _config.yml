@@ -22,8 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   IVFDF has been running since 1951 and is the UK’s longest continually running folk festival.
   A non-stop weekend of music and dance from the British Isles and beyond.
   This year streamed straight to your home so we may even get some actual sleep this time!
-baseurl: "/IVFDF2021" # the subpath of your site, e.g. /blog
-url: "https://www.codersoffortune.net" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.ivfdf2021.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: IVFDF2021
 #twitter_username: jekyllrb
 #github_username:  jekyll
