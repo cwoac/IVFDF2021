@@ -8,7 +8,7 @@ permalink: /community/zoom/
 For those people who have been under a rock for the last new months - [Zoom](https://zoom.us) is a video conferencing software. It allows lots of people to join an event and be able to see each other.
 
 ## Which Version do I need?
-At a bare minimum, you will need version 5.3.0 or later (5.0.0 for Chromebook). Versions of Zoom earlier than that will not allow you the freedom to move yourself between event rooms.
+At a bare minimum, you will need version 5.3.0 or later. Versions of Zoom earlier than that will not allow you the freedom to move yourself between event rooms. *Important* There is currently a known issue with chromebooks which means they *will not work*. If zoom pushes out a fix before the festival, we will update accordingly.
 
 ## Zoom etiquette
 
