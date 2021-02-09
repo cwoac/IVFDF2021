@@ -3,7 +3,7 @@ computer_required: false
 microphone_required: true
 date: 2021-02-21 13:00
 ends: 2021-02-21 14:00
-title: Photographing Folk Music
+title: Photographing Folk Dance
 organiser: Rachel Cole-Wilkin
 location: zoom3
 layout: event
