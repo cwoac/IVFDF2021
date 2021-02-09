@@ -11,7 +11,7 @@ dancing: true
 music: true
 group: true
 ---
-![Picture of Erin, Nancy, Jess and Richard]({{site.baseurl}}assets/event_ceilidh.png)
+![Picture of Erin, Nancy, Jess and Richard]({{site.baseurl}}/assets/event_ceilidh.png)
 
 We have 2 fantastic young callers in Erin Mansfield and Nancy Potts and amazing musicians in Richard and Jess Arrowsmith!
 

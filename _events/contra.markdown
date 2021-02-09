@@ -11,7 +11,7 @@ dancing: true
 music: true
 group: true
 ---
-![Picture of Nozzy]({{site.baseurl}}assets/event_contra.jpg)
+![Picture of Nozzy]({{site.baseurl}}/assets/event_contra.jpg)
 
 Nozzy are a high-energy lively contra duo from the UK. With Ozzy on piano, and Nikki on fiddle and flute, they take music from pretty much anywhere and set it to a fun and danceable beat.
 

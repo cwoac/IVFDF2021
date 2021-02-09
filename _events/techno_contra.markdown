@@ -11,7 +11,7 @@ dancing: true
 music: true
 group: true
 ---
-![Picture of Charlie and Vic]({{site.baseurl}}assets/event_techno_contra.jpg)
+![Picture of Charlie and Vic]({{site.baseurl}}/assets/event_techno_contra.jpg)
 
 Charlie Turner has been dancing and teaching for as long as she can remember, but a move to California transformed her contra dancing and kick-started her calling career. Now based in Cambridge, UK, she still brings the best of the West Coast to contra crowds, with clear, friendly teaching and satisfying dance selections. She emphasises connection, fun, flow, and inclusivity in dance.
 
