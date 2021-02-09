@@ -17,6 +17,12 @@ layout: default
       {%- if page.organiser -%}
       <br />Organiser: {{ page.organiser }}
       {%- endif -%}
+      {%- if page.caller -%}
+      <br />Calling: {{ page.caller }}
+      {%- endif -%}
+      {%- if page.musician -%}
+      <br />Music: {{ page.musician }}
+      {%- endif -%}
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
