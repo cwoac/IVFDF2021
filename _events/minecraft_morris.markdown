@@ -1,7 +1,7 @@
 ---
 computer_required: true
-date: 2021-02-20 14:30
-ends: 2021-02-20 15:00
+date: 2021-02-21 12:30
+ends: 2021-02-21 13:00
 title: Morris spot in Minecraft
 organiser: IVFDF
 location: zoom1
