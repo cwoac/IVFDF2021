@@ -16,7 +16,7 @@ Each of which will be accompanied by some amazing callers from around the UK.
 Other events and more details will be released soon, as soon as they’ve finished incubating. Check back here or follow our FB page for announcements.
 
 During the day we will be hosting a fantastic mix of workshops and sessions, we’re excited by the opportunity being online gives our workshop leaders to try out new things.
-The traditional Saturday afternoon Display ceilidh will still be a highlight of the weekend and take us from current lockdown displays back through time to enjoy festivals past.
+Saturday afternoon will feature our form of the traditional display ceilidh - "IVFDF through the ages" as a highlight of the weekend and take us from current lockdown displays back through time to enjoy festivals past.
 
 All this will round up with an incredible Survivors Ceilidh to finish on Sunday afternoon.
 
