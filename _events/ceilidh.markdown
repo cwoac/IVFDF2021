@@ -1,7 +1,7 @@
 ---
 computer_required: false
-date: 2021-02-20 19:00
-ends: 2021-02-20 20:30
+date: 2021-02-19 19:00
+ends: 2021-02-19 20:30
 title: Ceilidh
 musician: Jess and Richard Arrowsmith
 caller: Erin Mansfield and Nancy Potts
