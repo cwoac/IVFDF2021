@@ -10,7 +10,7 @@ layout: event
 dancing: true
 music: true
 group: true
-saturday: true
+friday: true
 ---
 ![Picture of Erin, Nancy, Jess and Richard]({{site.baseurl}}/assets/event_ceilidh.png)
 
