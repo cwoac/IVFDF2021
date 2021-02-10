@@ -1,13 +1,16 @@
 .hw_required {
     color: blue;
+    text-shadow: 0 0 8px rgb(0, 0 , 255);
 }
 
 .hw_supported {
     color: green;
+    text-shadow: 0 0 8px rgb(0, 255, 0);
 }
 
 .hw_unsupported {
-    color: lightgrey;
+    color: transparent;
+    text-shadow: 0 0 0 rgb(200,200,200);
 }
 
 h1 {
