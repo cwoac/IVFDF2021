@@ -10,6 +10,7 @@ location: zoom3
 layout: event
 dancing: true
 group: true
+sunday: true
 ---
 ![Picture of people performing a chain dance]({{site.baseurl}}/assets/event_chain.jpg)
 

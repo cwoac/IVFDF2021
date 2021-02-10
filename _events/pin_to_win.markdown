@@ -9,6 +9,7 @@ location: zoom3
 layout: event
 presentation: true
 group: false
+saturday: true
 ---
 ![Picture of Sally]({{site.baseurl}}/assets/event_pin.jpg)
 

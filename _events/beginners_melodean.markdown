@@ -11,6 +11,7 @@ layout: event
 music: true
 group: false
 special_requirements: true
+saturday: true
 ---
 ![Picture of Pete playing a Melodean]({{site.baseurl}}/assets/event_melodean.jpg)
 

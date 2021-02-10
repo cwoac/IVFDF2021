@@ -10,6 +10,7 @@ location: zoom3
 layout: event
 group: true
 dancing: true
+saturday: true
 ---
 ![Picture of Sophie dancing a Jig]({{site.baseurl}}/assets/event_jig.jpg)
 

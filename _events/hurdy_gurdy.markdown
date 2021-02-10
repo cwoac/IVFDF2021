@@ -11,7 +11,8 @@ layout: event
 presentation: true
 music: true
 group: true
-special_requirements: true
+special_requirements: Playing along will need a hurdy gurdy
+sunday: true
 ---
 ![Picture of Clare playing a Hurdy Gurdy]({{site.baseurl}}/assets/event_hurdy.jpg)
 

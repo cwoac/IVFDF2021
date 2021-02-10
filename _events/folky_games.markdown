@@ -8,5 +8,6 @@ organiser: Elion Budden
 location: zoom4
 layout: event
 group: true
+saturday: true
 ---
 Folky games modified for zoom. Just to be silly and have a laugh!

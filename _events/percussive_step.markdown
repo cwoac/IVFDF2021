@@ -10,6 +10,7 @@ location: zoom3
 layout: event
 dancing: true
 group: true
+sunday: true
 ---
 "Have you ever seen people dancing in hard-shoes and wondered how they do it? Fancied going to a workshop teaching an entire Clog/Appalachian/etc dance routine and want a few steps under your belt first? Tried rapper dancing and got the sword-handling down pat but still a bit clueless in the foot department?
 

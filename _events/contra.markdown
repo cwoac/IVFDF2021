@@ -10,6 +10,7 @@ layout: event
 dancing: true
 music: true
 group: true
+friday: true
 ---
 ![Picture of Nozzy]({{site.baseurl}}/assets/event_contra.jpg)
 

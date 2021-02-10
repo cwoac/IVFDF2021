@@ -9,6 +9,7 @@ location: zoom4
 layout: event
 presentation: true
 group: false
+sunday: true
 ---
 Interested in synthesisers but don't know where to start? Want to learn more about what all the flashing lights mean? Or maybe you have bought a synth or some synth software and want to get more out of it. In this workshop I'll be giving an overview of how basic synthesis works as well as glimpses into some more advanced techniques. 
 

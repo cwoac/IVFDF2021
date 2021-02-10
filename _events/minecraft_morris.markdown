@@ -10,6 +10,7 @@ dancing: true
 music: true
 group: false
 special_requirements: minecraft
+sunday: true
 ---
 ![Picture of a border dancer in minecraft]({{site.baseurl}}/assets/event_minecraft_1.png)
 

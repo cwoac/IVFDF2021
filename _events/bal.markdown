@@ -9,6 +9,7 @@ layout: event
 dancing: true
 music: true
 group: true
+friday: true
 ---
 ![Picture of Emily and the Simons]({{site.baseurl}}/assets/event_bal.jpg)
 

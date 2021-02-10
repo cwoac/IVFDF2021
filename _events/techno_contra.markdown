@@ -10,6 +10,7 @@ caller: Charlie Turner
 dancing: true
 music: true
 group: true
+saturday: true
 ---
 ![Picture of Charlie and Vic]({{site.baseurl}}/assets/event_techno_contra.jpg)
 

@@ -7,6 +7,210 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
+  <p>Below find the current scheudule. 
+
+  <p><em>Important:</em> This schedule is currently <strong>provisional</strong>, and <strong>incomplete</strong>. It will be finalised in the near future.
+
+  {%- if site.events.size >0 -%}
+    <p>Key:</p>
+    <table>
+    <tr>
+    <td>
+    Hardware types:
+    <ul>
+        <li>&#128241; - Mobile phone/tablet
+        <li>&#128187; - Computer
+        <li>&#127908; - Microphone
+        <li>&#129412; - Special requirements - see event details!
+    </ul>
+    <td>
+    <ul>
+        <li class="hw_required">Hardware is required</li>
+        <li class="hw_supported">Hardware is supported</li>
+        <li class="hw_unsupported">Hardware is unsupported / not needed for this.</li>
+    </ul>
+    </tr>
+    <tr>
+    <td>
+    How many people per connection?
+    <ul>
+    <li>&#128100; - One person
+    <li>&#128101; - Multiple people
+    </ul>
+    <td>
+    <ul>
+    <li>&#128200; - This is a presentation event
+    <li>&#9835; - This is a music event
+    <li>&#128131; - This is a dancing event
+    </table>
+    <h2 class="post-list-heading">Friday</h2>
+    <table class="post-list">
+    {%- for event in site.events -%}
+    {%- if event.friday -%}
+      <tr>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %H:%M" -%}
+        <td>
+        <span class="post-meta">{{ event.date | date: date_format }}</span>
+        <td>
+        <h3>
+          <a class="post-link" href="{{ event.url | relative_url }}">
+            {{ event.title | escape }}
+          </a>
+        </h3>
+        <td>
+        {%- if event.mobile_required -%}
+        {%- assign mobile_class = "hw_required" -%}
+        {%- elsif event.mobile -%}
+        {%- assign mobile_class = "hw_supported" -%}
+        {%- else -%}
+        {%- assign mobile_class = "hw_unsupported" -%}
+        {%- endif -%}
+        {%- if event.computer_required -%}
+        {%- assign computer_class = "hw_required" -%}
+        {%- elsif event.computer -%}
+        {%- assign computer_class = "hw_supported" -%}
+        {%- else -%}
+        {%- assign computer_class = "hw_unsupported" -%}
+        {%- endif -%}
+        {%- if event.microphone_required -%}
+        {%- assign microphone_class = "hw_required" -%}
+        {%- elsif event.microphone -%}
+        {%- assign microphone_class = "hw_supported" -%}
+        {%- else -%}
+        {%- assign microphone_class = "hw_unsupported" -%}
+        {%- endif -%}
+        {%- if event.group -%}
+        {%- assign group_mode = "&#128101;" -%}
+        {%- else -%} 
+        {%- assign group_mode = "&#128100;" -%} 
+        {%- endif -%}
+        <h3><span class="{{ mobile_class }}">&#128241;&#xfe0e;</span>
+        <span class="{{ computer_class }}">&#128187;&#xfe0e;</span><span class="{{ microphone_class }}">&#127908;&#xfe0e;</span>
+        {%- if event.special_requirements -%}<span>&#129412;</span>{%- endif -%}
+        </h3>
+        <td><h3>
+        <span>{{ group_mode }}</span>
+        <td><h3>
+        <span>{%- if event.presentation -%}&#128200;{%- endif -%}{%- if event.music -%}&#9835;{%- endif -%}{%- if event.dancing -%}&#128131;{%- endif -%} </span>
+        
+        </h3>
+      </tr>
+      {%- endif -%}
+      {%- endfor -%}
+    </table>
+    <h2 class="post-list-heading">Saturday</h2>
+    <table class="post-list">
+    {%- for event in site.events -%}
+    {%- if event.saturday -%}
+      <tr>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %H:%M" -%}
+        <td>
+        <span class="post-meta">{{ event.date | date: date_format }}</span>
+        <td>
+        <h3>
+          <a class="post-link" href="{{ event.url | relative_url }}">
+            {{ event.title | escape }}
+          </a>
+        </h3>
+        <td>
+        {%- if event.mobile_required -%}
+        {%- assign mobile_class = "hw_required" -%}
+        {%- elsif event.mobile -%}
+        {%- assign mobile_class = "hw_supported" -%}
+        {%- else -%}
+        {%- assign mobile_class = "hw_unsupported" -%}
+        {%- endif -%}
+        {%- if event.computer_required -%}
+        {%- assign computer_class = "hw_required" -%}
+        {%- elsif event.computer -%}
+        {%- assign computer_class = "hw_supported" -%}
+        {%- else -%}
+        {%- assign computer_class = "hw_unsupported" -%}
+        {%- endif -%}
+        {%- if event.microphone_required -%}
+        {%- assign microphone_class = "hw_required" -%}
+        {%- elsif event.microphone -%}
+        {%- assign microphone_class = "hw_supported" -%}
+        {%- else -%}
+        {%- assign microphone_class = "hw_unsupported" -%}
+        {%- endif -%}
+        {%- if event.group -%}
+        {%- assign group_mode = "&#128101;" -%}
+        {%- else -%} 
+        {%- assign group_mode = "&#128100;" -%} 
+        {%- endif -%}
+        <h3><span class="{{ mobile_class }}">&#128241;&#xfe0e;</span>
+        <span class="{{ computer_class }}">&#128187;&#xfe0e;</span><span class="{{ microphone_class }}">&#127908;&#xfe0e;</span>
+        {%- if event.special_requirements -%}<span>&#129412;</span>{%- endif -%}
+        </h3>
+        <td><h3>
+        <span>{{ group_mode }}</span>
+        <td><h3>
+        <span>{%- if event.presentation -%}&#128200;{%- endif -%}{%- if event.music -%}&#9835;{%- endif -%}{%- if event.dancing -%}&#128131;{%- endif -%} </span>
+        
+        </h3>
+      </tr>
+      {%- endif -%}
+      {%- endfor -%}
+    </table>
+    <h2 class="post-list-heading">Sunday</h2>
+    <table class="post-list">
+    {%- for event in site.events -%}
+    {%- if event.sunday -%}
+      <tr>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %H:%M" -%}
+        <td>
+        <span class="post-meta">{{ event.date | date: date_format }}</span>
+        <td>
+        <h3>
+          <a class="post-link" href="{{ event.url | relative_url }}">
+            {{ event.title | escape }}
+          </a>
+        </h3>
+        <td>
+        {%- if event.mobile_required -%}
+        {%- assign mobile_class = "hw_required" -%}
+        {%- elsif event.mobile -%}
+        {%- assign mobile_class = "hw_supported" -%}
+        {%- else -%}
+        {%- assign mobile_class = "hw_unsupported" -%}
+        {%- endif -%}
+        {%- if event.computer_required -%}
+        {%- assign computer_class = "hw_required" -%}
+        {%- elsif event.computer -%}
+        {%- assign computer_class = "hw_supported" -%}
+        {%- else -%}
+        {%- assign computer_class = "hw_unsupported" -%}
+        {%- endif -%}
+        {%- if event.microphone_required -%}
+        {%- assign microphone_class = "hw_required" -%}
+        {%- elsif event.microphone -%}
+        {%- assign microphone_class = "hw_supported" -%}
+        {%- else -%}
+        {%- assign microphone_class = "hw_unsupported" -%}
+        {%- endif -%}
+        {%- if event.group -%}
+        {%- assign group_mode = "&#128101;" -%}
+        {%- else -%} 
+        {%- assign group_mode = "&#128100;" -%} 
+        {%- endif -%}
+        <h3><span class="{{ mobile_class }}">&#128241;&#xfe0e;</span>
+        <span class="{{ computer_class }}">&#128187;&#xfe0e;</span><span class="{{ microphone_class }}">&#127908;&#xfe0e;</span>
+        {%- if event.special_requirements -%}<span>&#129412;</span>{%- endif -%}
+        </h3>
+        <td><h3>
+        <span>{{ group_mode }}</span>
+        <td><h3>
+        <span>{%- if event.presentation -%}&#128200;{%- endif -%}{%- if event.music -%}&#9835;{%- endif -%}{%- if event.dancing -%}&#128131;{%- endif -%} </span>
+        
+        </h3>
+      </tr>
+      {%- endif -%}
+      {%- endfor -%}
+    </table>
+  {%- endif -%}
+  
+
 
   <div class="post-content">
     {{ content }}
