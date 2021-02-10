@@ -4,7 +4,7 @@ mobile: true
 microphone: true
 date: 2021-02-21 11:30
 ends: 2021-02-21 12:30
-title: 'Percussive Step Dance: an introduction to rhythmical foot noise'
+title: 'Percussive Step Dance: An introduction to rhythmical foot noise'
 organiser: Nickie Dailly
 location: zoom3
 layout: event
