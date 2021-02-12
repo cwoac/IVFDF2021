@@ -1,6 +1,7 @@
 ---
 computer: true
 mobile: true
+microphone: true
 date: 2021-02-21 11:30
 ends: 2021-02-21 12:30
 title: Scottish Country Dancing Workshop
