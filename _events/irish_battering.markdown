@@ -13,5 +13,6 @@ group: true
 sunday: true
 ---
 ![Picture of John]({{site.baseurl}}/assets/event_irish_battering.jpg)
+
 Usually people who attend Irish Set Dancing ceilis view others performing battering steps and while watching wonder how such a wonderful syncopated beat can be made.
 This is your opportunity to learn some Clare battering steps for Irish set dancing .... and wow your pals!
