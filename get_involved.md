@@ -9,7 +9,7 @@ The important thing about IVFDF is the community we create together. If you woul
 Like with physical space, online spaces also need stewarding to ensure they're safe for everyone involved.
 If you can give a few hours of your time over the weekend to steward we would love your help! 
 This might be helping us supervise a zoom room, be a moderator on the Discord or Minecraft servers, or something else we think of between now and the festival!
-If you can help us by being a steward please email us at <a href="mailto:enquiries@ivfdf2021.org.uk">enquiries@ivfdf2021.org.uk</a>.
+If you can help us by being a steward please fill in your details on <a href="https://forms.gle/c1sAWXCRhpyGGt8c7">this form</a> and we'll be in touch soon.
 
 # Workshop leaders
 We're looking for people to lead workshops. This year with no limits on physical space we can fit in as many as we can timetable! If you have an idea for a workshop that you would like to lead please fill in <a href="https://forms.gle/jwBy72BmWwdwUpyz6">this proposal form</a> and Jack our workshop coordinator will get in touch with you.
