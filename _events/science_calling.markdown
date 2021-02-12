@@ -6,7 +6,7 @@ date: 2021-02-21 14:30
 ends: 2021-02-21 15:30
 title: Better Calling through Science
 organiser: Bob Morgan
-location: zoom3
+location: 03 Annex B
 layout: event
 presentation: true
 group: true

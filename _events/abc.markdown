@@ -6,7 +6,7 @@ date: 2021-02-21 10:00
 ends: 2021-02-21 11:00
 title: ABC notation crash course
 organiser: Jess Mackin
-location: zoom4
+location: 03 Annex B
 layout: event
 presentation: true
 group: true

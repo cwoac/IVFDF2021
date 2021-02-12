@@ -1,12 +1,12 @@
 ---
-computer: false
-mobile: false
+computer: true
+mobile: true
 microphone_required: true
 date: 2021-02-21 14:30
 ends: 2021-02-21 15:30
 title: Folk Song Session
 organiser: Jeremy Grace
-location: session
+location: 06 Highbury Vaults
 layout: event
 music: true
 group: true

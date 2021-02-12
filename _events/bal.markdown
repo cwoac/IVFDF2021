@@ -1,4 +1,6 @@
 ---
+computer: true
+mobile: true
 date: 2021-02-20 20:00
 ends: 2021-02-20 21:30
 title: Bal

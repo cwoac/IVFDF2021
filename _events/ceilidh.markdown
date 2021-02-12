@@ -1,5 +1,6 @@
 ---
-computer_required: false
+computer: true
+mobile: true
 date: 2021-02-19 19:00
 ends: 2021-02-19 20:30
 title: Ceilidh

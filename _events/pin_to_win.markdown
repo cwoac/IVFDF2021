@@ -5,7 +5,7 @@ date: 2021-02-20 10:00
 ends: 2021-02-20 11:00
 title: Pin to Win!
 organiser: Sally Vernon
-location: zoom3
+location: 05 Drafty Church Hall
 layout: event
 presentation: true
 group: false

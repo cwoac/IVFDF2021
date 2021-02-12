@@ -1,11 +1,12 @@
 ---
-computer_required: false
+computer: true
+mobile: true
 microphone_required: true
 date: 2021-02-20 10:00
 ends: 2021-02-20 11:00
 title: Ukelele easy mode! - an introduction to open C
 organiser: Huw Adamson
-location: zoom4
+location: 03 Annex B
 layout: event
 presentation: true
 group: true

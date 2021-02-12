@@ -6,7 +6,7 @@ date: 2021-02-20 13:30
 ends: 2021-02-20 14:30
 title: Party in the time of the Plague
 organiser: Elizabeth and Bob Lawson with Sarah Lowes on hammer dulcimer.
-location: zoom3
+location: 04 Drama Studio
 layout: event
 dancing: true
 group: true

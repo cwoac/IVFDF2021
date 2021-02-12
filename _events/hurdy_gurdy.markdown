@@ -6,7 +6,7 @@ date: 2021-02-21 13:00
 ends: 2021-02-21 14:00
 title: 'Hurdy Gurdy 101 - music with drones in'
 organiser: Clare Rose
-location: zoom4
+location: 03 Annex B
 layout: event
 presentation: true
 music: true

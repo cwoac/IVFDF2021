@@ -5,7 +5,7 @@ date: 2021-02-21 11:30
 ends: 2021-02-21 12:30
 title: 'Introduction to Electronic Music and Synthesis'
 organiser: Vic Smith
-location: zoom4
+location: 03 Annex B
 layout: event
 presentation: true
 group: false

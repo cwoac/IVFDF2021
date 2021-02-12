@@ -6,7 +6,7 @@ date: 2021-02-20 16:30
 ends: 2021-02-20 17:30
 title: Learn a Jig with Rag Morris
 organiser: Sophie Constantine
-location: zoom3
+location: 04 Drama Studio
 layout: event
 group: true
 dancing: true

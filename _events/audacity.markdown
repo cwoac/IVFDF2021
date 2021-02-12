@@ -5,7 +5,7 @@ date: 2021-02-20 13:30
 ends: 2021-02-20 14:30
 title: Recording your own music with Audacity
 organiser: Peter Marsh
-location: zoom4
+location: 03 Annex B
 layout: event
 presentation: true
 group: true

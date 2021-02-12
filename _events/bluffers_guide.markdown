@@ -6,7 +6,7 @@ date: 2021-02-20 15:00
 ends: 2021-02-20 16:00
 title: A Bluffer's guide to social folk dance
 organiser: Bob Morgan
-location: session
+location: 04 Drama Studio
 layout: event
 group: true
 presentation: true

@@ -5,7 +5,7 @@ date: 2021-02-21 13:00
 ends: 2021-02-21 14:00
 title: Photographing Folk Dance
 organiser: Rachel Cole-Wilkin
-location: zoom3
+location: 04 Drama Studio
 layout: event
 presentation: true
 group: true

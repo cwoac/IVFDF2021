@@ -6,7 +6,7 @@ date: 2021-02-20 11:30
 ends: 2021-02-20 12:30
 title: Beginners G/D melodeon
 organiser: Pete Grassby
-location: zoom4
+location: 03 Annex B
 layout: event
 music: true
 group: false

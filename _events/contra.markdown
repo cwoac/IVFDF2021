@@ -1,5 +1,6 @@
 ---
-computer_required: false
+computer: true
+mobile: true
 date: 2021-02-19 21:00
 ends: 2021-02-19 22:30
 title: Contra

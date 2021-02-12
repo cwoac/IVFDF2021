@@ -6,7 +6,7 @@ date: 2021-02-20 11:30
 ends: 2021-02-20 12:30
 title: Scottish (soft shoe) step dance
 organiser: Nickie Dailly
-location: zoom3
+location: 04 Drama Studio
 layout: event
 dancing: true
 group: true

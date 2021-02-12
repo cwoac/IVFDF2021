@@ -5,7 +5,7 @@ date: 2021-02-20 13:30
 ends: 2021-02-20 14:30
 title: Beginner's Balfolk Session
 organiser: Flying Cats
-location: session
+location: 07 Clifton Cow
 layout: event
 music: true
 dance: true
