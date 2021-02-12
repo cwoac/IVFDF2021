@@ -1,5 +1,6 @@
 ---
-computer_required: false
+computer: true
+mobile: true
 microphone: true
 date: 2021-02-20 13:30
 ends: 2021-02-20 14:30

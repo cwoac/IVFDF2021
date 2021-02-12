@@ -1,5 +1,6 @@
 ---
 computer_required: true
+microphone: true
 date: 2021-02-21 12:30
 ends: 2021-02-21 13:00
 title: Morris spot in Minecraft
