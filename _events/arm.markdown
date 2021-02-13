@@ -13,7 +13,7 @@ saturday: true
 ---
 IVFDF is run by a different folk society each year. This requires a bit of coordination which is where IVFDF central and the Annual Reps Meeting comes in.
 
-== IVFDF Central ==
+## IVFDF Central
 “IVFDF central” is a collection of people who do stuff to keep continuity between IVFDFs.
 There are a number of roles: 
 
@@ -28,7 +28,7 @@ These IVFDF central members have no acting power, and everything they do is at t
 
 Have you got a folk society that wants to become a member with this news? Then just ensure there are at least 2 members of your folk society at 2 subsequent IVFDFs and then your society gets to be a member society!
 
-== ARM Agenda ==
+## ARM Agenda
 
 This year at the ARM we have 2 arising constitutional matters to vote on, as well as the usual business:
 
