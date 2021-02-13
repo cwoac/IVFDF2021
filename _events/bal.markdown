@@ -6,7 +6,7 @@ ends: 2021-02-20 21:30
 title: Bal
 musician: Emily and the Simons
 caller: 
-location: zoom2
+location: 02 Sports Hall
 layout: event
 dancing: true
 music: true

@@ -4,7 +4,7 @@ mobile: true
 date: 2021-02-20 21:30
 ends: 2021-02-20 23:00
 title: Techno Contra
-location: zoom1
+location: 01 Dance Hall
 layout: event
 musician: Vic Smith
 caller: Charlie Turner

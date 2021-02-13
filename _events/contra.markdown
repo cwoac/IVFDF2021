@@ -6,7 +6,7 @@ ends: 2021-02-19 22:30
 title: Contra
 musician: Nozzy
 caller: Charlotte Rich-Griffin
-location: zoom2
+location: 02 Sports Hall
 layout: event
 dancing: true
 music: true

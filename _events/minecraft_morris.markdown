@@ -5,7 +5,7 @@ date: 2021-02-21 12:30
 ends: 2021-02-21 13:00
 title: Morris spot in Minecraft
 organiser: IVFDF
-location: zoom1
+location: 02 Sports Hall
 layout: event
 dancing: true
 music: true

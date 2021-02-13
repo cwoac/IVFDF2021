@@ -4,7 +4,7 @@ mobile: true
 date: 2021-02-20 18:30
 ends: 2021-02-20 20:00
 title: Playford
-location: zoom1
+location: 01 Dance Hall
 layout: event
 dancing: true
 music: true
