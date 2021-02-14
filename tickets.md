@@ -37,5 +37,5 @@ Even an online IVFDF needs stewards and other volunteers, and as usual we will b
 There is a small amount of core expenditure for us with Zoom, Website hosting, Paypal fees. All other profits will be given to the artists. Some artists have generously volunteered their time for which we are very grateful.
 
 ## Sponsors
-<img src="({{site.baseurl}}/assets/ad_sifd.png" alt="SIFD logo" height=50 width=50 />
+<img src="{{site.baseurl}}/assets/ad_sifd.png" alt="SIFD logo" height=50 width=50 />
 IVFDF 2021 is brought to you with the support of [SIFD - the Society for International Folk Dancing](https://www.sifd.org).
