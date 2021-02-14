@@ -20,7 +20,7 @@ This is what IVFDF 2021 is calling a single zoom meeting with multiple breakout 
 
 These are smaller rooms inside the main meeting. We’ve created rooms that are performance, social and sound check rooms.
 
-<span style="float:right">![image of breakout rooms](/assets/zoom_1.png)</span>
+<span style="float:right"><img src="/assets/zoom_1.png" alt="image of breakout rooms" width="50%" /></span>
 
 | Room                   | Purpose          |
 | ---------------------- | ---------------- |
