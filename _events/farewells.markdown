@@ -1,8 +1,8 @@
 ---
 computer: true
 mobile: true
-date: 2021-02-20 17:00
-ends: 2021-02-20 17:30
+date: 2021-02-21 17:00
+ends: 2021-02-21 17:30
 title: Farewells
 location: 12 Corridor
 layout: event
