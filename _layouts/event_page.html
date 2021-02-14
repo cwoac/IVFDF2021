@@ -42,6 +42,7 @@ layout: default
     <li>&#128200; - This is a presentation event
     <li>&#9835; - This is a music event
     <li>&#128131; - This is a dancing event
+    <li>&#9749; - This is a social event
     </table>
     <h2 class="post-list-heading">Friday</h2>
     <table class="post-list">
@@ -146,7 +147,7 @@ layout: default
         <td><h3>
         <span>{{ group_mode }}</span>
         <td><h3>
-        <span>{%- if event.presentation -%}&#128200;{%- endif -%}{%- if event.music -%}&#9835;{%- endif -%}{%- if event.dancing -%}&#128131;{%- endif -%} </span>
+        <span>{%- if event.presentation -%}&#128200;{%- endif -%}{%- if event.music -%}&#9835;{%- endif -%}{%- if event.dancing -%}&#128131;{%- endif -%}{%- if event.social -%}&#9749;{%- endif -%} </span>
         
         </h3>
       </tr>
