@@ -9,6 +9,7 @@ organiser: Elion Budden
 location: 03 Annex B
 layout: event
 group: true
+social: true
 saturday: true
 ---
 Folky games modified for zoom. Just to be silly and have a laugh!
