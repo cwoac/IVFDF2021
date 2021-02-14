@@ -1,8 +1,8 @@
 ---
 computer_required: true
 microphone: true
-date: 2021-02-20 18:30
-ends: 2021-02-20 20:00
+date: 2021-02-20 15:00
+ends: 2021-02-20 16:00
 title: Minecraft Ceilidh
 location: Secret Underground Dancehall
 layout: event
