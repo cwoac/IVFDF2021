@@ -6,7 +6,7 @@ permalink: /events/
 IVFDF 2021 will have all the essential parts of the festival that you and we love, with some fab musicians and callers lined up to give you the full folky experience from Friday evening to Sunday afternoon.
 
 For the main evening events we’re excited to have play for us:
-* Contra with Nozzy
+* Contra with Nozzy, with calling from Charlotte Rich-Griffin
 * Playford with Vicki Swan & Jonny Dyer, with calling from Andrew Swaine and Daisy Black
 * Bal with Emily and the Simons
 * Ceilidh with Jess and Richard Arrowsmith
