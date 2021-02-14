@@ -1,6 +1,7 @@
 ---
 computer: true
 mobile: true
+microphone_required: true
 date: 2021-02-19 22:30
 ends: 2021-02-19 23:00
 title: Nightcap

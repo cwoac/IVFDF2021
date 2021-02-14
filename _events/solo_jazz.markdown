@@ -1,7 +1,7 @@
 ---
 computer: true
 mobile: true
-microphone_required: true
+microphone: true
 date: 2021-02-20 10:00
 ends: 2021-02-20 11:00
 title: Intro to Solo Jazz

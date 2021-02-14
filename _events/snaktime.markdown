@@ -1,6 +1,7 @@
 ---
 computer: true
 mobile: true
+microphone_required: true
 date: 2021-02-19 20:30
 ends: 2021-02-19 21:00
 title: Snacktime

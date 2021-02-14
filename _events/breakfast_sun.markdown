@@ -1,6 +1,7 @@
 ---
 computer: true
 mobile: true
+microphone_required: true
 date: 2021-02-21 09:30
 ends: 2021-02-21 10:00
 title: Breakfast time

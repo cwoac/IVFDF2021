@@ -1,6 +1,7 @@
 ---
 computer: true
 mobile: true
+microphone_required: true
 date: 2021-02-21 11:00
 ends: 2021-02-21 11:30
 title: Elevenses

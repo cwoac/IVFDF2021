@@ -1,7 +1,7 @@
 ---
 computer: true
 mobile: true
-microphone: true
+microphone_required: true
 date: 2021-02-20 15:00
 ends: 2021-02-20 16:00
 title: Folky Games
