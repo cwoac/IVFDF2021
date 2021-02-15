@@ -12,4 +12,4 @@ music: true
 group: true
 saturday: true
 ---
-The displhy ceilidh is a traditional part of IVFDF that goes back even further than...the name IVFDF. This year, instead of showcasing the delights of the student societies of today, two hairy folkies will be re-living the joys of IVFDFs past with help from a few special guests from days gone by. Join us for a truly memorable journey: IVFDF through the ages.
+The display ceilidh is a traditional part of IVFDF that goes back even further than...the name IVFDF. This year, instead of showcasing the delights of the student societies of today, two hairy folkies will be re-living the joys of IVFDFs past with help from a few special guests from days gone by. Join us for a truly memorable journey: IVFDF through the ages.
