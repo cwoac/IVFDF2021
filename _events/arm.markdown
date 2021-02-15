@@ -22,9 +22,9 @@ There are a number of roles:
 * **Development**: They help develop smaller folk societies around the country. 
 * **Policies**: It turns out writing policies and keeping track of changes in the law isn’t in a student’s repertoire, so we have someone specific to help societies with them. 
 * **Safeguarding**: Unfortunately, even at IVFDF we need a person in charge of keeping track of possible safeguarding problems across multiple years. 
-Communications Officer: External organisations get really confused when their contact changes every year, and also we need someone to organise telling societies things.
+* **Communications Officer**: External organisations get really confused when their contact changes every year, and also we need someone to organise telling societies things.
 
-These IVFDF central members have no acting power, and everything they do is at the whim of the reps!  So who are the reps? The reps are people sent from each member society to the reps meeting to vote on various IVFDF matters, like how much money to loan future IVFDFs and who the IVFDF central members are, and various other important stuff. Each member folk society can nominate 2 people to get voting rights at reps meetings. Other people can turn up, but they can’t vote, IVFDF central members also can’t vote. All the decision power of IVFDF is at the hands of the member society nominees!
+These IVFDF central members have no acting power, and everything they do is at the whim of the reps!  So who are the reps? The reps are people sent from each member society to the reps meeting to vote on various IVFDF matters, like how much money to loan future IVFDFs and who the IVFDF central members are, and various other important stuff. Each member folk society can nominate 2 people to get voting rights at reps meetings. Other people can turn up, but they can’t vote, IVFDF central members also can’t vote. All the decision power of IVFDF is in the hands of the member society nominees!
 
 Have you got a folk society that wants to become a member with this news? Then just ensure there are at least 2 members of your folk society at 2 subsequent IVFDFs and then your society gets to be a member society!
 
