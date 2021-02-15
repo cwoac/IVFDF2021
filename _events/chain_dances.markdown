@@ -5,7 +5,7 @@ microphone: true
 date: 2021-02-21 10:00
 ends: 2021-02-21 11:00
 title: Chain Dances, between Brittany and Bulgaria
-organiser: Jean-Cristophe Denis and friends
+organiser: Jean-Christophe Denis and Mirela Bozhinova
 location: 05 Drafty Church Hall
 layout: event
 dancing: true
