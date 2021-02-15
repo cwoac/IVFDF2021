@@ -4,7 +4,7 @@ mobile: true
 microphone: true
 date: 2021-02-21 10:00
 ends: 2021-02-21 11:00
-title: Battering Steps for Irish Step Dancing
+title: Battering Steps for Irish Set Dancing
 organiser: John Corbett
 location: 04 Drama Studio
 layout: event
