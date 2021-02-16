@@ -22,4 +22,4 @@ Discord is a persistent chat system, somewhere between a forum and irc (for thos
 
 # Minecraft
 <span style="float:right">![Goose Mascot]({{site.baseurl}}/assets/mascot_goose.png)</span>
-A 3D sandbox you can explore, build and ... Morris dance in? More details [here]({{site.baseurl}}/community/discord/)
+A 3D sandbox you can explore, build and ... Morris dance in? More details [here]({{site.baseurl}}/community/minecraft/)
