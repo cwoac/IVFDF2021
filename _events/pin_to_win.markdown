@@ -12,9 +12,12 @@ group: false
 saturday: true
 ---
 ![Picture of Sally]({{site.baseurl}}/assets/event_pin.jpg)
+Connection with a partner is at the heart of so much dance, but now IVFDF is virtual many of the people we look forward to dancing with each year are hundreds of miles away. Is it still possible to ask them for a dance?
 
-Connection with a partner is at the heart of so much dance, but when dancing on-line it can easily be lost. 
+This workshop looks at how you can ask someone to dance over Zoom, how dancing works when your partner is at the opposite end of the internet, and explores whether remote connection is possible! The main idea is 'Zoom Pinning', where you can pick one person for Zoom to focus on.
 
-This workshop looks at simple lead-follow exercises over Zoom, where the partners are at opposite ends of the internet, and explores whether remote connection is possible! 
+Expect a bit of talking about tech, a bit of talking about social conventions, a bit of dancing around your living room, and at least one Very Silly Exercise.
 
-Attendees will need to be able to hold their laptop / phone while dancing, this workshop will not work with static computers. Attendees will also need one connection per person - this workshop will not work for two people joining from the same room!
+Ideally, attendees will need to be able to hold their phone / laptop while dancing. This workshop is designed for one Zoom connection per person - if multiple people are using the same line, you will have to pretend to be one person for an hour, or get another device!
+
+Notes for the Very Keen can be found at [https://tinyurl.com/ivfdfpintowin](https://tinyurl.com/ivfdfpintowin)
