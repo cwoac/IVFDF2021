@@ -14,7 +14,7 @@ You will need Minecraft Java edition. Unfortunately the versions on the consoles
 No! Almost all of IVFDF is being handled over zoom - there are only a small number of events being held in minecraft, the main one being the virtual Morris Tour). We are looking at whether it is possible to stream this for people who don't have minecraft.
 
 ## How do I get it / How do I get into the server.
-If you don't own minecraft java version, it is currently £17.99. Full instructions on how to obtain it and how to connect to the IVFDF 2021 server will be sent in an email to you.
+If you don't own minecraft java version, it is currently £17.99. Huw has some instructions on how to connect [here](https://www.youtube.com/watch?v=caN-RrGv94Q), and the details of what IP to connect to are in the email with your discord link.
 
 ## How do I make my own skin?
 Want to turn up in your side's colours? Of course you do! It's also pretty easy. Huw has done a quick tutorial for you, watch it [here](https://youtu.be/yEpn2X_Ycmc)
