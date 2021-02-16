@@ -12,7 +12,7 @@
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
-              {{ site.title | escape }}
+              {%- include social.html -%}
             {%- endif -%}
             </li>
             {%- if site.email -%}
@@ -21,11 +21,9 @@
             <li><a href="/assets/ivfdf_privacy_policy.pdf">Privacy Policy</a>
             <li><a href="/assets/ivfdf_child_protection_policy.pdf">Child Protection Policy</a>
         </ul>
+        IVFDF 2021 is brought to you with the support of <a href="https://www.sifd.org">SIFD</a><img src="/assets/ad_sifd.png" alt="SIFD logo" height=20 width=20 /> 
       </div>
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
