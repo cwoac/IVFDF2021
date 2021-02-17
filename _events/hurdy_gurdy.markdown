@@ -18,4 +18,6 @@ sunday: true
 
 Ever wondered what the hurdy gurdy is, why it sounds so distinctive, and why it plays tunes in such odd keys? This is the workshop for you! A demonstration, and a chance to play along with some traditional gurdy tunes in Dminor, Gminor and Cminor (sheets provided). Come and be a gurdy nerd!
 
+You can download a tunebook [here](/assets/hurdy_gurdy_101_tunebook.pdf)
+
 Playing along will need a hurdy gurdy!
