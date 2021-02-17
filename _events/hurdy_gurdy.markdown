@@ -20,7 +20,8 @@ Ever wondered what the hurdy gurdy is, why it sounds so distinctive, and why it 
 
 You can download a tunebook [here](/assets/hurdy_gurdy_101_tunebook.pdf)
 
-Playing along can be on any instrument (including rhythm instruments)
+Playing along can be on any instrument (including rhythm instruments).
+
 [Here](https://www.youtube.com/playlist?list=PLsQO55Hodd6mFkQKKy6hm8tdAimL7qPGf) is a playlist to get inspired!
 
 WARNING: the workshop will include rhythmic buzzing noises which some people may find overwhelming
