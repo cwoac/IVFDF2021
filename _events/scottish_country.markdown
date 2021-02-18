@@ -6,7 +6,7 @@ date: 2021-02-21 11:30
 ends: 2021-02-21 12:30
 title: Scottish Country Dancing Workshop
 organiser: Sam Schad
-location: 05 Drafty Church Hall
+location: 05 Draughty Church Hall
 layout: event
 dancing: true
 group: true
