@@ -6,7 +6,7 @@ date: 2021-02-20 16:30
 ends: 2021-02-20 17:30
 title: Old Style Irish Step Dancing for Beginners
 organiser: Annette Collins
-location: 05 Drafty Church Hall
+location: 04 Drama Studio
 layout: event
 group: true
 dancing: true
