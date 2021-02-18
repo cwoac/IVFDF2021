@@ -6,7 +6,7 @@ date: 2021-02-21 13:00
 ends: 2021-02-21 14:00
 title: Solo/Couple Dance Adaptation
 organiser: Louise Siddons
-location: 05 Drafty Church Hall
+location: 05 Draughty Church Hall
 layout: event
 presentation: true
 dancing: true
