@@ -2,11 +2,11 @@
 computer: true
 mobile: true
 microphone: true
-date: 2021-02-20 16:30
-ends: 2021-02-20 17:30
+date: 2021-02-20 15:30
+ends: 2021-02-20 16:30
 title: Learn a Jig with Rag Morris
 organiser: Sophie Constantine
-location: 04 Drama Studio
+location: 05 Draughty Church Hall
 layout: event
 group: true
 dancing: true
