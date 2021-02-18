@@ -4,6 +4,11 @@ title: Tickets
 permalink: /tickets/
 ---
 <h1><a href="https://www.bristolsu.org.uk/groups/bristol-university-folk-society/events/ivfdf-online">Buy your tickets here!</a></h1>
+<h2>IMPORTANT! Sending you your ticket is a *manual* process and will *not* be immediate. Do not fear, we will be sending out tickets at regular intervals up to and during the event.</h2>
+* You will get a 'payment recieved' from the SU with very few details on it.
+* You will then get an email direct from ivfdf2021 at somepoint in the next 24 hours with links to the discord and minecraft.
+* The zoom invite will be emailed Friday.
+* Check your spam for both - we've been having problems reported to us on that.
 
 ## What does a ticket get you?
 
