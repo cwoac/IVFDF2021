@@ -5,7 +5,7 @@ date: 2021-02-21 15:30
 ends: 2021-02-21 17:00
 title: Survivors Ceilidh
 organiser: Rhodri Davies
-location: 00 Main Session
+location: Main Session
 layout: event
 dancing: true
 group: true
