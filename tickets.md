@@ -9,6 +9,7 @@ permalink: /tickets/
 * You will then get an email direct from ivfdf2021 at somepoint in the next 24 hours with links to the discord and minecraft.
 * The zoom invite will be emailed Friday.
 * Check your spam for both - we've been having problems reported to us on that.
+* It will come from enquiries@ivfdf2021.org.uk so please do make sure you have that as an approved contact.
 
 ## What does a ticket get you?
 
