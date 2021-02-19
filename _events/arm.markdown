@@ -5,6 +5,7 @@ date: 2021-02-20 16:00
 ends: 2021-02-20 18:00
 title: Annual Reps Meeting
 organiser: IVFDF committee
+location: 02 Sports Hall
 layout: event
 presentation: true
 microphone_required: true
