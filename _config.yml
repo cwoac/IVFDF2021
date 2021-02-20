@@ -28,6 +28,7 @@ facebook_username: IVFDF2021
 #twitter_username: jekyllrb
 #github_username:  jekyll
 header_pages:
+ - ivfdf2022.md
  - game.md
  - events.md
  - recordings.md
